@@ -13,4 +13,6 @@ python example_run.py
 
 Please cite:
 
-Li, Qingzhe, Liang Zhao, Yi-Ching Lee, Yanfang Ye, Jessica Lin, and Lingfei Wu. "Contrast Feature Dependency Pattern Mining for Controlled Experiments with Application to Driving Behavior." In 2019 IEEE International Conference on Data Mining (ICDM), pp. 1192-1197. IEEE, 2019.
+[1]. Li, Qingzhe, Liang Zhao, Yi-Ching Lee, Yanfang Ye, Jessica Lin, and Lingfei Wu. "Contrast Feature Dependency Pattern Mining for Controlled Experiments with Application to Driving Behavior." In 2019 IEEE International Conference on Data Mining (ICDM), pp. 1192-1197. IEEE, 2019.
+
+[2]. Li, Qingzhe, Liang Zhao, Yi-Ching Lee, Avesta Sassan, and Jessica Lin. "CPM: A General Feature Dependency Pattern Mining Framework for Contrast Multivariate Time Series." Pattern Recognition (2020): 107711.
