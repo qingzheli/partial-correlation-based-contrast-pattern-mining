@@ -7,6 +7,7 @@ Python 2.7 with Numpy package installed
 
 ##  Example Usage ###############
 cd code
+
 python example_run.py
 
 ## Cite
